@@ -1,0 +1,42 @@
+{
+  "id": "ds-tokens-max-hamm",
+  "title": "Hand Drawn Tokens for Draw Steel by Max Hamm",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "<p>Hand Drawn Tokens with Art Mapping for Draw Steel by Max Hamm.</p>",
+  "authors": [
+    {
+      "name": "Max Hamm",
+      "url": "https://bsky.app/profile/maxhamm.bsky.social",
+      "flags": {}
+    },
+    {
+      "name": "Joseph Meehan",
+      "url": "https://joseph-meehan.carrd.co/",
+      "discord": "chaosos",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/JPMeehan/ds-tokens-max-hamm",
+  "flags": {
+    "canUpload": true,
+      "compendiumArtMappings": {
+      "draw-steel": {
+        "mapping": "modules/ds-tokens-max-hamm/art-mappings/draw-steel.json",
+        "credit": "<em>by Max Hamm.</em>"
+      }
+    }
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "draw-steel",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
