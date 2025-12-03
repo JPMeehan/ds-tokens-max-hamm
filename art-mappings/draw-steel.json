@@ -1,3 +1,213 @@
 {
-    "draw-steel.monsters": {}
+  "draw-steel.monsters": {
+    "DZKCzrvXRPBUjUJf": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
+      "token": {
+      "texture": {
+        "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
+        }
+      }
+    },
+    "cX05o7vGiHtYWMlq": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
+      "token": {
+      "texture": {
+        "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
+        }
+      }
+    },
+    "G1fUng66ZtDXk6Ts": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlCleaver.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlCleaver.png"
+        }
+      }
+    },
+    "R1CEitcfoGyEwRZY": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlDart.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlDart.png"
+        }
+      }
+    },
+    "PgfqdFL9IvSAPf3B": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlDaybringer.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlDaybringer.png"
+        }
+      }
+    },
+    "MJ9n87vH7gWykWh5": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlNeedler.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlNeedler.png"
+        }
+      }
+    },
+    "UIerVsSyMb36Bm4D": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlPollywog.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlPollywog.png"
+        }
+      }
+    },
+    "fWNfG7NHtHubyHk8": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlSlink.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlSlink.png"
+        }
+      }
+    },
+    "7suKjfefBKKA5IMH": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AngulotlWave.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AngulotlWave.png"
+        }
+      }
+    },
+    "3B9NyJN29f9wjIpa": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Arixx.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Arixx.png"
+        }
+      }
+    },
+    "EwN0CLt7UmEzQA0J": {
+      "actor": "modules/ds-tokens-max-hamm/assets/AshenHoarder.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/AshenHoarder.png"
+        }
+      }
+    },
+    "8HEM1GaGSfmENWij": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Basilisk.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Basilisk.png"
+        }
+      }
+    },
+    "i0GhOpwXdSNQzEA9": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BasiliskTonguesnapper.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BasiliskTonguesnapper.png"
+        }
+      }
+    },
+    "wzvNh7FYggjoU6Hv": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png"
+        }
+      }
+    },
+    "gYUnLS5eDPZZtcGA": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
+          "tint": "#228B22"
+        }
+      }
+    },
+    "ZaENuomw1aFn4Ffw": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearChanneler.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearChanneler.png"
+        }
+      }
+    },
+    "CfTBjxc0S0zbpYFU": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearCommander.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearCommander.png"
+        }
+      }
+    },
+    "BUM1285qoUoaorwL": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearKnightmare.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearKnightmare.png"
+        }
+      }
+    },
+    "1uTE9K7c8YUOVjhm": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearMob.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearMob.png"
+        }
+      }
+    },
+    "kYb1A4yFNpXsTXff": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearRoughneck.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearRoughneck.png"
+        }
+      }
+    },
+    "YpvSj9tJzpiPSmLl": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearSnare.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearSnare.png"
+        }
+      }
+    },
+    "v517WAkDcsA2qxit": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BugbearSneak.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BugbearSneak.png"
+        }
+      }
+    },
+    "yMkWRu1AYXU4ukn1": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Chimera.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Chimera.png"
+        }
+      }
+    },
+    "rmkUHKgXlVPjsH25": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Clawfish.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Clawfish.png"
+        }
+      }
+    },
+    "UhfOrqouXnHoIS8h": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ensnarer.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Ensnarer.png"
+        }
+      }
+    },
+    "mk2BTfD8Mv9ffTLT": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Pitling.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Pitling.png"
+        }
+      }
+    }
+  }
 }
