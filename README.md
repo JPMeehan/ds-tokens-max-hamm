@@ -7,3 +7,7 @@ You can control the priority of multiple art packs from the core Foundry setting
 ![A screenshot showing the art applied to compendium actors](documentation/CompendiumView.PNG)
 
 Check out Max Hamm's Bluesky for tokens as they come out: https://bsky.app/profile/maxhamm.bsky.social
+
+## License
+
+Art by Max Hamm, used with permission. Do not replicate for commercial use.
