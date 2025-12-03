@@ -2,9 +2,11 @@
   "id": "ds-tokens-max-hamm",
   "title": "Hand Drawn Tokens for Draw Steel by Max Hamm",
   "version": "AUTOMATIC",
+  "download": "AUTOMATIC",
+  "manifest": "https://github.com/JPMeehan/ds-tokens-max-hamm/releases/latest/download/module.json",
   "compatibility": {
     "minimum": "12",
-    "verified": "13"
+    "verified": "14"
   },
   "description": "<p>Hand Drawn Tokens with Art Mapping for Draw Steel by Max Hamm.</p>",
   "authors": [
@@ -21,6 +23,7 @@
     }
   ],
   "url": "https://github.com/JPMeehan/ds-tokens-max-hamm",
+
   "flags": {
     "compendiumArtMappings": {
       "draw-steel": {
