@@ -1,21 +1,5 @@
 {
   "draw-steel.monsters": {
-    "DZKCzrvXRPBUjUJf": {
-      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
-      "token": {
-      "texture": {
-        "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
-        }
-      }
-    },
-    "cX05o7vGiHtYWMlq": {
-      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
-      "token": {
-      "texture": {
-        "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
-        }
-      }
-    },
     "G1fUng66ZtDXk6Ts": {
       "actor": "modules/ds-tokens-max-hamm/assets/AngulotlCleaver.png",
       "token": {
@@ -88,6 +72,22 @@
         }
       }
     },
+    "uUW2ZDtajs3eP9tX": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Aurumvas.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Aurumvas.png"
+        }
+      }
+    },
+    "zauGBxHmXDDJxFtk": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BaleEye.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BaleEye.png"
+        }
+      }
+    },
     "8HEM1GaGSfmENWij": {
       "actor": "modules/ds-tokens-max-hamm/assets/Basilisk.png",
       "token": {
@@ -104,20 +104,27 @@
         }
       }
     },
+    "E3cI02r1zBQaBr1i": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Bendrak.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Bendrak.png"
+        }
+      }
+    },
+    "Qp5KnRoiAhrKqVgW": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BlightPhage.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BlightPhage.png"
+        }
+      }
+    },
     "wzvNh7FYggjoU6Hv": {
       "actor": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png"
-        }
-      }
-    },
-    "gYUnLS5eDPZZtcGA": {
-      "actor": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
-      "token": {
-        "texture": {
-          "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
-          "tint": "#228B22"
         }
       }
     },
@@ -185,6 +192,22 @@
         }
       }
     },
+    "f71DR96HvSWgIVcL": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Chimeron.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Chimeron.png"
+        }
+      }
+    },
+    "GqufFfTfLOy6sHxx": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Chorogaunt.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Chorogaunt.png"
+        }
+      }
+    },
     "rmkUHKgXlVPjsH25": {
       "actor": "modules/ds-tokens-max-hamm/assets/Clawfish.png",
       "token": {
@@ -201,6 +224,86 @@
         }
       }
     },
+    "AXJ1tMkKqDLh29ok": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Fangling.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Fangling.png"
+        }
+      }
+    },
+    "YQRgvGD96zv7pDVe": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Fiktin.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Fiktin.png"
+        }
+      }
+    },
+    "LObGOqAbCzceqLsZ": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Frenzied.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Frenzied.png"
+        }
+      }
+    },
+    "WwVzCeCSmWxzavYt": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Grulqin.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Grulqin.png"
+        }
+      }
+    },
+    "cHfXpw0gAtswgtvd": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Gunge.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Gunge.png"
+        }
+      }
+    },
+    "ZlldlcAUDqx39d5O": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Izyak.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Izyak.png"
+        }
+      }
+    },
+    "PgfTJjJwE66nvFkA": {
+      "actor": "modules/ds-tokens-max-hamm/assets/LumberingEgress.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/LumberingEgress.png"
+        }
+      }
+    },
+    "7aFwUBr6PfaX6x2n": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Muceron.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Muceron.png"
+        }
+      }
+    },
+    "robfmNuhaVjRoZDP": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Optacus.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Optacus.png"
+        }
+      }
+    },
+    "tE6gzFGlFDdSV0nT": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Orliq.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Orliq.png"
+        }
+      }
+    },
     "mk2BTfD8Mv9ffTLT": {
       "actor": "modules/ds-tokens-max-hamm/assets/Pitling.png",
       "token": {
@@ -208,6 +311,151 @@
           "src": "modules/ds-tokens-max-hamm/assets/Pitling.png"
         }
       }
+    },
+    "fVi6MoM2NGfbv56a": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Remasch.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Remasch.png"
+        }
+      }
+    },
+    "NBo4IrVK1iFIgSdQ": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ruinant.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Ruinant.png"
+        }
+      }
+    },
+    "fm0xXQMgYtq7x7w3": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerHandmaiden.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerHandmaiden.png"
+        }
+      }
+    },
+    "edFfStb7ZgG1bBLW": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerHivequeen.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerHivequeen.png"
+        }
+      }
+    },
+    "eP9lhXI3aPN1xrXD": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerPraetorian.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerPraetorian.png"
+        }
+      }
+    },
+    "9q84XKVnHQ7xs4c8": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerScout.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerScout.png"
+        }
+      }
+    },
+    "aw2Grj27aslTlO5f": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerSoldier.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerSoldier.png"
+        }
+      }
+    },
+    "2RBxd4qewHIvQ37X": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerStinger.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SoulrakerStinger.png"
+        }
+      }
+    },
+    "D4X2LnvtF3qN4tUR": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Styrich.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Styrich.png"
+        }
+      }
+    },
+    "MH2w4vm4a1H8TzMj": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Torlas.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Torlas.png"
+        }
+      }
+    },
+    "5Mp3vWzzanrRPdaB": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Tormenauk.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Tormenauk.png"
+        }
+      }
+    },
+    "fSHdcO4q12wV8qHx": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Tyburaki.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Tyburaki.png"
+        }
+      }
+    },
+    "i6Qy72aRK3ACgeht": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Unguloid.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Unguloid.png"
+        }
+      }
+    },
+    "pEYRlKhRpOLCdklz": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Vicisitator.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Vicisitator.png"
+        }
+      }
+    },
+    "FlhenZoGvBLM5GOu": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Wobalas.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Wobalas.png"
+        }
+      }
+    },
+    "DZKCzrvXRPBUjUJf": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
+        }
+      }
+    },
+    "cX05o7vGiHtYWMlq": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ajax.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Ajax.png"
+        }
+      }
+    },
+    "gYUnLS5eDPZZtcGA": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
+          "tint": "#228B22"
+        }
+      }
     }
-  }
+}
 }
