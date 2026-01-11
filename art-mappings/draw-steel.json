@@ -216,6 +216,70 @@
         }
       }
     },
+    "BVPX6awUJ5WYQ6F4": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilAdjudicator.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilAdjudicator.png"
+        }
+      }
+    },
+    "AmtQ7P6HKiyKS8UB": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilClerk.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilClerk.png"
+        }
+      }
+    },
+    "QJNhCLJWoOJXTRjs": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilHighJudge.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilHighJudge.png"
+        }
+      }
+    },
+    "u2LQOxcBMlktfPgQ": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilJurist.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilJurist.png"
+        }
+      }
+    },
+    "ZER1CpIoZ4iZaVaH": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilLegate.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilLegate.png"
+        }
+      }
+    },
+    "J7avVrYgKpAupBSq": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilMagistrate.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilMagistrate.png"
+        }
+      }
+    },
+    "MUGOwQFQQB69BCRY": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilNotary.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilNotary.png"
+        }
+      }
+    },
+    "uZXnJpMt8p9LuSBV": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DevilScrivener.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DevilScrivener.png"
+        }
+      }
+    },
     "UhfOrqouXnHoIS8h": {
       "actor": "modules/ds-tokens-max-hamm/assets/Ensnarer.png",
       "token": {
@@ -457,5 +521,5 @@
         }
       }
     }
-}
+  }
 }
