@@ -312,6 +312,62 @@
         }
       }
     },
+    "6bpHvy0N4rObJBZq": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinAssassin.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinAssassin.png"
+        }
+      }
+    },
+    "Xw0gZCS09gdMjaw8": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinRunner.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinRunner.png"
+        }
+      }
+    },
+    "E637uEMv0INA5LPW": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinSniper.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinSniper.png"
+        }
+      }
+    },
+    "Mdk2jvvw26BaR1HL": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinSpinecleaver.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinSpinecleaver.png"
+        }
+      }
+    },
+    "CWcc0FNUfUaiYyH7": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinStinker.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinStinker.png"
+        }
+      }
+    },
+    "RTBXFv1dj9NBfVRU": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinUnderboss.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinUnderboss.png"
+        }
+      }
+    },
+    "6SR8siFeC5lWUzoO": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinWarrior.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinWarrior.png"
+        }
+      }
+    },
     "WwVzCeCSmWxzavYt": {
       "actor": "modules/ds-tokens-max-hamm/assets/Grulqin.png",
       "token": {
