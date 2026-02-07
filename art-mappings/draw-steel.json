@@ -312,11 +312,35 @@
         }
       }
     },
+    "DXM53Md2acyvSVNo": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Ghoul.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Ghoul.png"
+        }
+      }
+    },
     "6bpHvy0N4rObJBZq": {
       "actor": "modules/ds-tokens-max-hamm/assets/GoblinAssassin.png",
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/GoblinAssassin.png"
+        }
+      }
+    },
+    "ABCSkDOKuSHQOWU7": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinCursespitter.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinCursespitter.png"
+        }
+      }
+    },
+    "Vxxc0EcLHPPnpSbK": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinMonarch.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinMonarch.png"
         }
       }
     },
@@ -448,6 +472,22 @@
         }
       }
     },
+    "2h6PhbOuGeraFQZm": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Skeleton.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Skeleton.png"
+        }
+      }
+    },
+    "CtnlwvEcJb9YdZQ3": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Skitterling.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Skitterling.png"
+        }
+      }
+    },
     "fm0xXQMgYtq7x7w3": {
       "actor": "modules/ds-tokens-max-hamm/assets/SoulrakerHandmaiden.png",
       "token": {
@@ -544,11 +584,35 @@
         }
       }
     },
+    "B4gltUWwUjv812ka": {
+      "actor": "modules/ds-tokens-max-hamm/assets/WarSpider.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/WarSpider.png"
+        }
+      }
+    },
     "FlhenZoGvBLM5GOu": {
       "actor": "modules/ds-tokens-max-hamm/assets/Wobalas.png",
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/Wobalas.png"
+        }
+      }
+    },
+    "6M62ZA9L6xuu0AHz": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Worg.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Worg.png"
+        }
+      }
+    },
+    "G7bFOGyqq0Z4xJ7F": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Zombie.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Zombie.png"
         }
       }
     },
