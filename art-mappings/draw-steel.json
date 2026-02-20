@@ -280,6 +280,102 @@
         }
       }
     },
+    "3HwFmtwoNKEFELHd": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfAxethrower.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfAxethrower.png"
+        }
+      }
+    },
+    "D2bOQ1WeHPKrJzWa": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfCatchpole.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfCatchpole.png"
+        }
+      }
+    },
+    "Dh8T75p1oaKXU1P1": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfDriver.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfDriver.png"
+        }
+      }
+    },
+    "r44P94IM2nXlCbR9": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfGunner.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfGunner.png"
+        }
+      }
+    },
+    "yhGxrXcM6ixD9Bfr": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfHunter.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfHunter.png"
+        }
+      }
+    },
+    "lWlxKkrNrpLbU7VY": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfLauncher.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfLauncher.png"
+        }
+      }
+    },
+    "STHK2rkTd1XJ0og0": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfMarauderLord.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfMarauderLord.png"
+        }
+      }
+    },
+    "BndhpOqmRXyhCsJ6": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfReelWinch.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfReelWinch.png"
+        }
+      }
+    },
+    "wVhtZJ0nZAbxJ5t4": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfShieldwall.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfShieldwall.png"
+        }
+      }
+    },
+    "0wvOWjLAh0BeOvCp": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfStoneWhisperer.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfStoneWhisperer.png"
+        }
+      }
+    },
+    "yYKle19pHJYfKMfQ": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfTrapper.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfTrapper.png"
+        }
+      }
+    },
+    "oOrOtSddf3x85DG3": {
+      "actor": "modules/ds-tokens-max-hamm/assets/DwarfWarden.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/DwarfWarden.png"
+        }
+      }
+    },
     "UhfOrqouXnHoIS8h": {
       "actor": "modules/ds-tokens-max-hamm/assets/Ensnarer.png",
       "token": {
@@ -469,6 +565,14 @@
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/Ruinant.png"
+        }
+      }
+    },
+    "Avq9RV6W2gmatMgI": {
+      "actor": "modules/ds-tokens-max-hamm/assets/ServitorWarWalker.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/ServitorWarWalker.png"
         }
       }
     },
