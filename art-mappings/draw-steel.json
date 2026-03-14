@@ -216,6 +216,22 @@
         }
       }
     },
+    "V8CFcw8SAUNkcm7P": {
+      "actor": "modules/ds-tokens-max-hamm/assets/CrawlingClaw.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/CrawlingClaw.png"
+        }
+      }
+    },
+    "1KvJeGOPiH0umRrb": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Cyclops.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Cyclops.png"
+        }
+      }
+    },
     "BVPX6awUJ5WYQ6F4": {
       "actor": "modules/ds-tokens-max-hamm/assets/DevilAdjudicator.png",
       "token": {
@@ -528,6 +544,22 @@
         }
       }
     },
+    "GfCJmfAMdlEutNaB": {
+      "actor": "modules/ds-tokens-max-hamm/assets/OgreBlueBlood.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/OgreBlueBlood.png"
+        }
+      }
+    },
+    "HNt4p9nPWlekoh0y": {
+      "actor": "modules/ds-tokens-max-hamm/assets/OgreTantrum.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/OgreTantrum.png"
+        }
+      }
+    },
     "robfmNuhaVjRoZDP": {
       "actor": "modules/ds-tokens-max-hamm/assets/Optacus.png",
       "token": {
@@ -742,6 +774,162 @@
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/Bredbeddle.png",
           "tint": "#228B22"
+        }
+      }
+    }
+  },
+  "draw-steel-delian-tomb.monsters": {
+    "T8TByxnxIQLCquQl": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BruneTheButcher.png",
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BruneTheButcher*.png"
+        }
+      }
+    },
+    "BhSQdgOI9QO1B8t1": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GlassSpiderYellow.png",
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GlassSpider*.png"
+        }
+      }
+    },
+    "bHIbvuZxvqksyrOo": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BlackIchor.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BlackIchor.png"
+        }
+      }
+    },
+    "aUOZU3NJEWqRexRP": {
+      "actor": "modules/ds-tokens-max-hamm/assets/CreepingSludge.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/CreepingSludge.png"
+        }
+      }
+    },
+    "JgTkE9BFQ725llql": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinBattleborn.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinBattleborn.png"
+        }
+      }
+    },
+    "YEcTRfWgIy7eOE36": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinDeathtongue.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinDeathtongue.png"
+        }
+      }
+    },
+    "1rgM4rU61L172gz8": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinMastermind.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinMastermind.png"
+        }
+      }
+    },
+    "yE1S7Y6t5PmsqdeS": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinShadowknife.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinShadowknife.png"
+        }
+      }
+    },
+    "zbIGbGA0OblJ0zsV": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GoblinToxinaut.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GoblinToxinaut.png"
+        }
+      }
+    },
+    "OOz0WWp4ViwxPwYs": {
+      "actor": "modules/ds-tokens-max-hamm/assets/GummyBall.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/GummyBall.png"
+        }
+      }
+    },
+    "ORECisxV0fhdV7lO": {
+      "actor": "modules/ds-tokens-max-hamm/assets/ImitPutty.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/ImitPutty.png"
+        }
+      }
+    },
+    "9plqEGLEhvGDjqnp": {
+      "actor": "modules/ds-tokens-max-hamm/assets/MemorialIvy.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/MemorialIvy.png"
+        }
+      }
+    },
+    "tuCthtMZUysJwBe6": {
+      "actor": "modules/ds-tokens-max-hamm/assets/MysticQueenBargnot.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/MysticQueenBargnot.png"
+        }
+      }
+    },
+    "dzGYV1aulDWa3ZTi": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Spindlegoth.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Spindlegoth.png"
+        }
+      }
+    },
+    "g0Bww2drlXS6OMjr": {
+      "actor": "modules/ds-tokens-max-hamm/assets/SuddenDownpour.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/SuddenDownpour.png"
+        }
+      }
+    },
+    "1aAY7dANEe9hbtHW": {
+      "actor": "modules/ds-tokens-max-hamm/assets/FlowOfTheRiver.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/FlowOfTheRiver.png"
+        }
+      }
+    },
+    "H2zabyA0ibDz9fdX": {
+      "actor": "modules/ds-tokens-max-hamm/assets/EssenceOfChange.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/EssenceOfChange.png"
+        }
+      }
+    },
+    "GmjliLc8sF4Ye1iI": {
+      "actor": "modules/ds-tokens-max-hamm/assets/TombHorror.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/TombHorror.png"
+        }
+      }
+    },
+    "eRygcFPdlVhBhHnA": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Wallmaster.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Wallmaster.png"
         }
       }
     }
