@@ -536,6 +536,71 @@
         }
       }
     },
+    "DIT7gzYgU7pwjP4j": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanArcher.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanArcher.png"
+        }
+      }
+    },
+    "DSEkUDEnQeS4LsWr": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanBrawler.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanBrawler.png"
+        }
+      }
+    },
+    "3sZIJ1aJRhMF6iK5": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanGuard1.png",
+      "token": {
+        "randomImg": true,
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanGuard*.png"
+        }
+      }
+    },
+    "hgK8SgOIzJ0bcAtf": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanKnave.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanKnave.png"
+        }
+      }
+    },
+    "wTq3vb6iy92uivRO": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanRaider.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanRaider.png"
+        }
+      }
+    },
+    "dhs3FHouwzVD0Acn": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanRogue.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanRogue.png"
+        }
+      }
+    },
+    "D6Lb4iGCwZfYh1GB": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanScoundrel.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanScoundrel.png"
+        }
+      }
+    },
+    "aky9I9tbWEWgNQ25": {
+      "actor": "modules/ds-tokens-max-hamm/assets/HumanTrickshot.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/HumanTrickshot.png"
+        }
+      }
+    },
     "ZlldlcAUDqx39d5O": {
       "actor": "modules/ds-tokens-max-hamm/assets/Izyak.png",
       "token": {
@@ -549,6 +614,14 @@
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/LumberingEgress.png"
+        }
+      }
+    },
+    "My8y85XQkQHc0cqp": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Mohler.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Mohler.png"
         }
       }
     },
@@ -832,6 +905,14 @@
           "tint": "#228B22"
         }
       }
+    },
+    "QGyPkOy25nfcgXP0": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Illwyth.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Illwyth.png"
+        }
+      }
     }
   },
   "draw-steel-delian-tomb.monsters": {
@@ -848,6 +929,14 @@
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/BlackIchor.png"
+        }
+      }
+    },
+    "f51RZn89YCmeHbXM": {
+      "actor": "modules/ds-tokens-max-hamm/assets/BoddorffBuckfeather.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/BoddorffBuckfeather.png"
         }
       }
     },
@@ -907,6 +996,14 @@
         }
       }
     },
+    "lK1gc6W927F0ZnCS": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Gorek.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Gorek.png"
+        }
+      }
+    },
     "OOz0WWp4ViwxPwYs": {
       "actor": "modules/ds-tokens-max-hamm/assets/GummyBall.png",
       "token": {
@@ -920,6 +1017,22 @@
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/ImitPutty.png"
+        }
+      }
+    },
+    "hIZCyoXOYWz0nrYf": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Laesi.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Laesi.png"
+        }
+      }
+    },
+    "SXbJECHxSUvqQ53b": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Mara.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Mara.png"
         }
       }
     },
@@ -952,6 +1065,14 @@
       "token": {
         "texture": {
           "src": "modules/ds-tokens-max-hamm/assets/SuddenDownpour.png"
+        }
+      }
+    },
+    "CYaL14D7biaDXmak": {
+      "actor": "modules/ds-tokens-max-hamm/assets/Targon.png",
+      "token": {
+        "texture": {
+          "src": "modules/ds-tokens-max-hamm/assets/Targon.png"
         }
       }
     },
